@@ -1,7 +1,7 @@
 # RecyclerView1
-Nama : Dian Nofika Prasetya Amanda
-Kelas : XIRPL3
-No Urut : 08
-NISN : 4698/1417.070
-Sekolah : SMK TELKOM Malang
+Nama : Dian Nofika Prasetya Amanda <br>
+Kelas : XIRPL3 <br>
+No Urut : 08 <br>
+NISN : 4698/1417.070 <br>
+Sekolah : SMK TELKOM Malang <br>
 #
